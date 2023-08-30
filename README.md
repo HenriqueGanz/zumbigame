@@ -1,5 +1,5 @@
 # zumbigame
-Jogo de sobrevivencia em 3d, desenvolvido em unity com linguagem c#, projeto do curso de desenvolvimento de jogos da Alura.
+Jogo de sobrevivencia em 3d, desenvolvido em unity com linguagem c#.
 
 # Scripts de cada Componente controlado presente no jogo, desenvolvido em Csharp!
 
